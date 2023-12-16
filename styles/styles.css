@@ -1,0 +1,116 @@
+
+.container{
+
+    padding: 10% 10% 10% 10%;
+    font-family: 'Roboto Mono', monospace;
+
+}
+.win-text {
+    color: rgb(0, 157, 235);
+}
+
+.New{
+
+    color: rgb(190, 243, 177);
+
+}
+
+a{
+
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-family: 'Roboto Mono', monospace;
+    font-weight: bold;
+    padding: 10px 10px 10px 10px;
+    border-radius: 5px;
+    border: 2px solid rgb(255, 255, 255);
+    transition: 0.5s;
+    margin: 10px 10px 10px 10px;
+    box-shadow: 0px 0px 10px 0px rgb(255, 255, 255);
+
+}
+
+a:hover{
+
+    text-decoration: none;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+
+}
+
+.container h3{
+
+    padding-top: 7%;
+
+}
+
+
+.container p{
+
+    padding-top: 2%;
+    font-size: 20px;
+    font-family: 'Roboto Mono', monospace;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+
+}
+
+.container h1{
+
+    font-size: 50px;
+    font-family: 'Roboto Mono', monospace;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+
+}
+
+#startbutton{
+
+    font-weight: bold;
+    color: #000;
+    font-size: 30px;
+    background-color: rgb(190, 243, 177);
+    margin-top: 5%;
+}
+
+#startbutton:hover{
+
+    background-color: rgb(255, 255, 255);
+
+}
+
+.hide {
+    display: none;
+}
+
+.show {
+    display: block;
+}
+
+.game-container table {
+
+    margin: 0 auto;
+    border-collapse: collapse;
+    border: 3px solid rgb(20, 18, 18);
+    
+}
+
+table tr{
+
+    border: 3px solid rgb(20, 18, 18);
+}
+
+table td{
+
+    border: 3px solid rgb(20, 18, 18);
+    padding: 50px 50px 50px 50px;
+}
+
+table td button:hover{
+
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    transition: 0.5s;
+
+}
