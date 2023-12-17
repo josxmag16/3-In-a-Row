@@ -114,3 +114,12 @@ table td button:hover{
     transition: 0.5s;
 
 }
+
+#restartbutton{
+
+    font-weight: bold;
+    color: #000;
+    font-size: 30px;
+    background-color: rgb(190, 243, 177);
+    margin-top: 5%;
+}
